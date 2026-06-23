@@ -8,3 +8,6 @@
 [submodule "iglm"]
 	path = iglm
 	url = https://github.com/corneliusfritz/iglm
+[submodule "redeem"]
+	path = redeem
+	url = https://github.com/corneliusfritz/redeem
